@@ -1,0 +1,171 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+name	C:\Development\learn-react\package.json	/^  "name": "ps-redux",$/;"	function	line:2
+version	C:\Development\learn-react\package.json	/^  "version": "1.0.0",$/;"	function	line:3
+description	C:\Development\learn-react\package.json	/^  "description": "Starter kit for React and Redux Pluralsight course by Cory House",$/;"	function	line:4
+scripts	C:\Development\learn-react\package.json	/^  "scripts": {$/;"	function	line:5
+prestart	C:\Development\learn-react\package.json	/^    "prestart": "babel-node tools\/startMessage.js",$/;"	function	line:6
+start	C:\Development\learn-react\package.json	/^    "start": "npm-run-all --parallel open:src lint:watch test:watch",$/;"	function	line:7
+open:src	C:\Development\learn-react\package.json	/^    "open:src": "babel-node tools\/srcServer.js",$/;"	function	line:8
+lint	C:\Development\learn-react\package.json	/^    "lint": "node_modules\/.bin\/esw webpack.config.* src tools",$/;"	function	line:9
+lint:watch	C:\Development\learn-react\package.json	/^    "lint:watch": "npm run lint -- --watch",$/;"	function	line:10
+test	C:\Development\learn-react\package.json	/^    "test": "mocha --reporter progress tools\/testSetup.js \\"src\/**\/*.test.js\\" ",$/;"	function	line:11
+test:watch	C:\Development\learn-react\package.json	/^    "test:watch": "npm run test -- --watch"$/;"	function	line:12
+author	C:\Development\learn-react\package.json	/^  "author": "Cory House",$/;"	function	line:14
+license	C:\Development\learn-react\package.json	/^  "license": "MIT",$/;"	function	line:15
+dependencies	C:\Development\learn-react\package.json	/^  "dependencies": {$/;"	function	line:16
+antd	C:\Development\learn-react\package.json	/^    "antd": "^2.8.1",$/;"	function	line:17
+babel-polyfill	C:\Development\learn-react\package.json	/^    "babel-polyfill": "6.8.0",$/;"	function	line:18
+bootstrap	C:\Development\learn-react\package.json	/^    "bootstrap": "3.3.6",$/;"	function	line:19
+jquery	C:\Development\learn-react\package.json	/^    "jquery": "2.2.3",$/;"	function	line:20
+react	C:\Development\learn-react\package.json	/^    "react": "15.0.2",$/;"	function	line:21
+react-dom	C:\Development\learn-react\package.json	/^    "react-dom": "15.0.2",$/;"	function	line:22
+react-redux	C:\Development\learn-react\package.json	/^    "react-redux": "4.4.5",$/;"	function	line:23
+react-router	C:\Development\learn-react\package.json	/^    "react-router": "2.4.0",$/;"	function	line:24
+react-router-redux	C:\Development\learn-react\package.json	/^    "react-router-redux": "4.0.4",$/;"	function	line:25
+redux	C:\Development\learn-react\package.json	/^    "redux": "3.5.2",$/;"	function	line:26
+redux-thunk	C:\Development\learn-react\package.json	/^    "redux-thunk": "2.0.1",$/;"	function	line:27
+toastr	C:\Development\learn-react\package.json	/^    "toastr": "2.1.2"$/;"	function	line:28
+devDependencies	C:\Development\learn-react\package.json	/^  "devDependencies": {$/;"	function	line:30
+babel-cli	C:\Development\learn-react\package.json	/^    "babel-cli": "6.8.0",$/;"	function	line:31
+babel-core	C:\Development\learn-react\package.json	/^    "babel-core": "6.8.0",$/;"	function	line:32
+babel-loader	C:\Development\learn-react\package.json	/^    "babel-loader": "6.2.4",$/;"	function	line:33
+babel-plugin-react-display-name	C:\Development\learn-react\package.json	/^    "babel-plugin-react-display-name": "2.0.0",$/;"	function	line:34
+babel-preset-es2015	C:\Development\learn-react\package.json	/^    "babel-preset-es2015": "6.6.0",$/;"	function	line:35
+babel-preset-react	C:\Development\learn-react\package.json	/^    "babel-preset-react": "6.5.0",$/;"	function	line:36
+babel-preset-react-hmre	C:\Development\learn-react\package.json	/^    "babel-preset-react-hmre": "1.1.1",$/;"	function	line:37
+babel-register	C:\Development\learn-react\package.json	/^    "babel-register": "6.8.0",$/;"	function	line:38
+colors	C:\Development\learn-react\package.json	/^    "colors": "1.1.2",$/;"	function	line:39
+compression	C:\Development\learn-react\package.json	/^    "compression": "^1.6.1",$/;"	function	line:40
+cross-env	C:\Development\learn-react\package.json	/^    "cross-env": "1.0.7",$/;"	function	line:41
+css-loader	C:\Development\learn-react\package.json	/^    "css-loader": "0.23.1",$/;"	function	line:42
+enzyme	C:\Development\learn-react\package.json	/^    "enzyme": "2.2.0",$/;"	function	line:43
+eslint	C:\Development\learn-react\package.json	/^    "eslint": "2.9.0",$/;"	function	line:44
+eslint-plugin-import	C:\Development\learn-react\package.json	/^    "eslint-plugin-import": "1.6.1",$/;"	function	line:45
+eslint-plugin-react	C:\Development\learn-react\package.json	/^    "eslint-plugin-react": "5.0.1",$/;"	function	line:46
+eslint-watch	C:\Development\learn-react\package.json	/^    "eslint-watch": "2.1.11",$/;"	function	line:47
+eventsource-polyfill	C:\Development\learn-react\package.json	/^    "eventsource-polyfill": "0.9.6",$/;"	function	line:48
+expect	C:\Development\learn-react\package.json	/^    "expect": "1.19.0",$/;"	function	line:49
+express	C:\Development\learn-react\package.json	/^    "express": "4.13.4",$/;"	function	line:50
+extract-text-webpack-plugin	C:\Development\learn-react\package.json	/^    "extract-text-webpack-plugin": "1.0.1",$/;"	function	line:51
+file-loader	C:\Development\learn-react\package.json	/^    "file-loader": "0.8.5",$/;"	function	line:52
+jsdom	C:\Development\learn-react\package.json	/^    "jsdom": "8.5.0",$/;"	function	line:53
+less	C:\Development\learn-react\package.json	/^    "less": "^2.7.2",$/;"	function	line:54
+less-loader	C:\Development\learn-react\package.json	/^    "less-loader": "^3.0.0",$/;"	function	line:55
+mocha	C:\Development\learn-react\package.json	/^    "mocha": "2.4.5",$/;"	function	line:56
+nock	C:\Development\learn-react\package.json	/^    "nock": "8.0.0",$/;"	function	line:57
+npm-run-all	C:\Development\learn-react\package.json	/^    "npm-run-all": "1.8.0",$/;"	function	line:58
+open	C:\Development\learn-react\package.json	/^    "open": "0.0.5",$/;"	function	line:59
+react-addons-test-utils	C:\Development\learn-react\package.json	/^    "react-addons-test-utils": "15.0.2",$/;"	function	line:60
+redux-immutable-state-invariant	C:\Development\learn-react\package.json	/^    "redux-immutable-state-invariant": "1.2.3",$/;"	function	line:61
+redux-mock-store	C:\Development\learn-react\package.json	/^    "redux-mock-store": "1.0.2",$/;"	function	line:62
+rimraf	C:\Development\learn-react\package.json	/^    "rimraf": "2.5.2",$/;"	function	line:63
+style-loader	C:\Development\learn-react\package.json	/^    "style-loader": "0.13.1",$/;"	function	line:64
+url-loader	C:\Development\learn-react\package.json	/^    "url-loader": "0.5.7",$/;"	function	line:65
+webpack	C:\Development\learn-react\package.json	/^    "webpack": "1.13.0",$/;"	function	line:66
+webpack-dev-middleware	C:\Development\learn-react\package.json	/^    "webpack-dev-middleware": "1.6.1",$/;"	function	line:67
+webpack-hot-middleware	C:\Development\learn-react\package.json	/^    "webpack-hot-middleware": "2.10.0"$/;"	function	line:68
+repository	C:\Development\learn-react\package.json	/^  "repository": {$/;"	function	line:70
+type	C:\Development\learn-react\package.json	/^    "type": "git",$/;"	function	line:71
+url	C:\Development\learn-react\package.json	/^    "url": "https:\/\/github.com\/coryhouse\/pluralsight-redux-starter"$/;"	function	line:72
+beginAjaxCall	C:\Development\learn-react\src\actions\ajaxStatusActions.js	/^export function beginAjaxCall() {$/;"	function	line:3
+ajaxCallError	C:\Development\learn-react\src\actions\ajaxStatusActions.js	/^export function ajaxCallError() {$/;"	function	line:7
+loadAuthorsSuccess	C:\Development\learn-react\src\actions\authorActions.js	/^export function loadAuthorsSuccess(authors) {$/;"	function	line:5
+loadAuthors	C:\Development\learn-react\src\actions\authorActions.js	/^export function loadAuthors() {$/;"	function	line:9
+loadCoursesSuccess	C:\Development\learn-react\src\actions\courseActions.js	/^export function loadCoursesSuccess(courses) {$/;"	function	line:5
+createCourseSuccess	C:\Development\learn-react\src\actions\courseActions.js	/^export function createCourseSuccess(course) {$/;"	function	line:9
+updateCourseSuccess	C:\Development\learn-react\src\actions\courseActions.js	/^export function updateCourseSuccess(course) {$/;"	function	line:13
+loadCourses	C:\Development\learn-react\src\actions\courseActions.js	/^export function loadCourses() {$/;"	function	line:17
+saveCourse	C:\Development\learn-react\src\actions\courseActions.js	/^export function saveCourse(course) {$/;"	function	line:28
+replaceAll	C:\Development\learn-react\src\api\mockCourseApi.js	/^function replaceAll(str, find, replace) {$/;"	function	line:49
+replaceAll	C:\Development\learn-react\src\api\mockCourseApi.js	/^function replaceAll(str, find, replace) {$/;"	function	line:49
+constructor	C:\Development\learn-react\src\components\about\AboutPage.js	/^  constructor(props) {$/;"	function	line:38
+state.current	C:\Development\learn-react\src\components\about\AboutPage.js	/^      current: 0$/;"	property	line:42
+next	C:\Development\learn-react\src\components\about\AboutPage.js	/^  next() {$/;"	function	line:46
+prev	C:\Development\learn-react\src\components\about\AboutPage.js	/^  prev() {$/;"	function	line:51
+render	C:\Development\learn-react\src\components\about\AboutPage.js	/^  render() {$/;"	function	line:56
+.steps-content	C:\Development\learn-react\src\components\about\AboutPage.less	/^.steps-content {$/;"	function	line:1
+.steps-action	C:\Development\learn-react\src\components\about\AboutPage.less	/^.steps-action {$/;"	function	line:11
+#testId	C:\Development\learn-react\src\components\about\AboutPage.less	/^#testId {$/;"	function	line:15
+#testId	C:\Development\learn-react\src\components\about\Page1.css	/^#testId {$/;"	function	line:1
+constructor	C:\Development\learn-react\src\components\about\Page1.js	/^  constructor(props) {$/;"	function	line:7
+state.isCompany	C:\Development\learn-react\src\components\about\Page1.js	/^      isCompany: false$/;"	property	line:11
+changeLegalEntityType	C:\Development\learn-react\src\components\about\Page1.js	/^  changeLegalEntityType(event) {$/;"	function	line:15
+render	C:\Development\learn-react\src\components\about\Page1.js	/^  render() {$/;"	function	line:24
+const.labelCol	C:\Development\learn-react\src\components\about\Page1.js	/^      labelCol: {$/;"	property	line:29
+render	C:\Development\learn-react\src\components\about\Page2.js	/^  render() {$/;"	function	line:7
+const.labelCol	C:\Development\learn-react\src\components\about\Page2.js	/^      labelCol: {$/;"	property	line:12
+render	C:\Development\learn-react\src\components\App.js	/^  render() {$/;"	function	line:6
+App.propTypes.children	C:\Development\learn-react\src\components\App.js	/^  children: PropTypes.object.isRequired,$/;"	property	line:19
+mapStateToProps	C:\Development\learn-react\src\components\App.js	/^function mapStateToProps(state, ownProps) {$/;"	function	line:23
+mapStateToProps	C:\Development\learn-react\src\components\App.js	/^function mapStateToProps(state, ownProps) {$/;"	function	line:23
+Header.propTypes.loading	C:\Development\learn-react\src\components\common\Header.js	/^  loading: PropTypes.bool.isRequired$/;"	property	line:19
+constructor	C:\Development\learn-react\src\components\common\LoadingDots.js	/^  constructor(props, context) {$/;"	function	line:4
+state.frame	C:\Development\learn-react\src\components\common\LoadingDots.js	/^    this.state = {frame: 1};$/;"	property	line:7
+componentDidMount	C:\Development\learn-react\src\components\common\LoadingDots.js	/^  componentDidMount() {$/;"	function	line:10
+componentWillUnmount	C:\Development\learn-react\src\components\common\LoadingDots.js	/^  componentWillUnmount() {$/;"	function	line:18
+render	C:\Development\learn-react\src\components\common\LoadingDots.js	/^  render() {$/;"	function	line:22
+LoadingDots.defaultProps.interval	C:\Development\learn-react\src\components\common\LoadingDots.js	/^  interval: 300, dots: 3$/;"	property	line:34
+LoadingDots.defaultProps.dots	C:\Development\learn-react\src\components\common\LoadingDots.js	/^  interval: 300, dots: 3$/;"	property	line:34
+LoadingDots.propTypes.interval	C:\Development\learn-react\src\components\common\LoadingDots.js	/^  interval: PropTypes.number,$/;"	property	line:38
+SelectInput.propTypes.name	C:\Development\learn-react\src\components\common\SelectInput.js	/^  name: PropTypes.string.isRequired,$/;"	property	line:27
+TextInput.propTypes.name	C:\Development\learn-react\src\components\common\TextInput.js	/^  name: PropTypes.string.isRequired,$/;"	property	line:27
+CourseForm.propTypes.course	C:\Development\learn-react\src\components\courses\CourseForm.js	/^  course: React.PropTypes.object.isRequired,$/;"	property	line:49
+CourseList.propTypes.courses	C:\Development\learn-react\src\components\courses\CourseList.js	/^  courses: PropTypes.array.isRequired$/;"	property	line:26
+CourseListRow.propTypes.course	C:\Development\learn-react\src\components\courses\CourseListRow.js	/^  course: PropTypes.object.isRequired$/;"	property	line:17
+constructor	C:\Development\learn-react\src\components\courses\CoursesPage.js	/^  constructor(props, context) {$/;"	function	line:9
+redirectToAddCoursePage	C:\Development\learn-react\src\components\courses\CoursesPage.js	/^  redirectToAddCoursePage() {$/;"	function	line:14
+render	C:\Development\learn-react\src\components\courses\CoursesPage.js	/^  render() {$/;"	function	line:18
+CoursesPage.propTypes.courses	C:\Development\learn-react\src\components\courses\CoursesPage.js	/^  courses: PropTypes.array.isRequired,$/;"	property	line:35
+mapStateToProps	C:\Development\learn-react\src\components\courses\CoursesPage.js	/^function mapStateToProps(state, ownProps) {$/;"	function	line:39
+mapStateToProps	C:\Development\learn-react\src\components\courses\CoursesPage.js	/^function mapStateToProps(state, ownProps) {$/;"	function	line:39
+mapDispatchToProps	C:\Development\learn-react\src\components\courses\CoursesPage.js	/^function mapDispatchToProps(dispatch) {$/;"	function	line:45
+mapDispatchToProps	C:\Development\learn-react\src\components\courses\CoursesPage.js	/^function mapDispatchToProps(dispatch) {$/;"	function	line:45
+constructor	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  constructor(props, context) {$/;"	function	line:10
+state.course	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^      course: Object.assign({}, props.course),$/;"	property	line:14
+componentWillReceiveProps	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  componentWillReceiveProps(nextProps) {$/;"	function	line:23
+updateCourseState	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  updateCourseState(event) {$/;"	function	line:30
+saveCourse	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  saveCourse(event) {$/;"	function	line:38
+redirect	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  redirect() {$/;"	function	line:51
+render	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  render() {$/;"	function	line:57
+ManageCoursePage.propTypes.course	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  course: PropTypes.object.isRequired,$/;"	property	line:72
+ManageCoursePage.contextTypes.router	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  router: PropTypes.object$/;"	property	line:79
+getCourseById	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^function getCourseById(courses, id) {$/;"	function	line:82
+getCourseById	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^function getCourseById(courses, id) {$/;"	function	line:82
+mapStateToProps	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^function mapStateToProps(state, ownProps) {$/;"	function	line:88
+let.id	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  let course = {id: '', watchHref: '', title: '', authorId: '', length: '', category: ''};$/;"	property	line:91
+let.watchHref	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  let course = {id: '', watchHref: '', title: '', authorId: '', length: '', category: ''};$/;"	property	line:91
+let.title	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  let course = {id: '', watchHref: '', title: '', authorId: '', length: '', category: ''};$/;"	property	line:91
+let.authorId	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  let course = {id: '', watchHref: '', title: '', authorId: '', length: '', category: ''};$/;"	property	line:91
+let.length	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  let course = {id: '', watchHref: '', title: '', authorId: '', length: '', category: ''};$/;"	property	line:91
+let.category	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^  let course = {id: '', watchHref: '', title: '', authorId: '', length: '', category: ''};$/;"	property	line:91
+mapStateToProps	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^function mapStateToProps(state, ownProps) {$/;"	function	line:88
+mapDispatchToProps	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^function mapDispatchToProps(dispatch) {$/;"	function	line:103
+mapDispatchToProps	C:\Development\learn-react\src\components\courses\ManageCoursePage.js	/^function mapDispatchToProps(dispatch) {$/;"	function	line:103
+render	C:\Development\learn-react\src\components\home\HomePage.js	/^  render() {$/;"	function	line:5
+html	C:\Development\learn-react\src\index.html	/^<html lang="en">$/;"	function	line:2
+head	C:\Development\learn-react\src\index.html	/^<head>$/;"	function	line:3
+title	C:\Development\learn-react\src\index.html	/^    <title>Pluralsight Admin<\/title>$/;"	function	line:4
+body	C:\Development\learn-react\src\index.html	/^<body>$/;"	function	line:6
+div	C:\Development\learn-react\src\index.html	/^<div id="app"><\/div>$/;"	function	line:7
+script	C:\Development\learn-react\src\index.html	/^<script src="\/bundle.js"><\/script>$/;"	function	line:8
+actionTypeEndsInSuccess	C:\Development\learn-react\src\reducers\ajaxStatusReducer.js	/^function actionTypeEndsInSuccess(type) {$/;"	function	line:4
+actionTypeEndsInSuccess	C:\Development\learn-react\src\reducers\ajaxStatusReducer.js	/^function actionTypeEndsInSuccess(type) {$/;"	function	line:4
+ajaxStatusReducer	C:\Development\learn-react\src\reducers\ajaxStatusReducer.js	/^export default function ajaxStatusReducer(state = initialState.ajaxCallsInProgress, action) {$/;"	function	line:8
+authorReducer	C:\Development\learn-react\src\reducers\authorReducer.js	/^export default function authorReducer(state = initialState.authors, action) {$/;"	function	line:4
+switch	C:\Development\learn-react\src\reducers\authorReducer.js	/^  switch (action.type) {$/;"	function	line:5
+courseReducer	C:\Development\learn-react\src\reducers\courseReducer.js	/^export default function courseReducer(state = initialState.courses, action) {$/;"	function	line:4
+switch	C:\Development\learn-react\src\reducers\courseReducer.js	/^  switch(action.type) {$/;"	function	line:5
+authorsFormattedForDropdown	C:\Development\learn-react\src\selectors\selectors.js	/^export function authorsFormattedForDropdown(authors) {$/;"	function	line:1
+configureStore	C:\Development\learn-react\src\store\configureStore.js	/^export default function configureStore(initialState) {$/;"	function	line:6
+#app	C:\Development\learn-react\src\styles\styles.css	/^#app {$/;"	function	line:4
+a.active	C:\Development\learn-react\src\styles\styles.css	/^a.active {$/;"	function	line:12
+nav	C:\Development\learn-react\src\styles\styles.css	/^nav {$/;"	function	line:16
+require.extensions	C:\Development\learn-react\tools\testSetup.js	/^require.extensions['.css'] = function () {return null;};$/;"	function	line:28
+jsdom	C:\Development\learn-react\tools\testSetup.js	/^var jsdom = require('jsdom').jsdom;$/;"	variable	line:34
+exposedProperties	C:\Development\learn-react\tools\testSetup.js	/^var exposedProperties = ['window', 'navigator', 'document'];$/;"	variable	line:36
+global.navigator.userAgent	C:\Development\learn-react\tools\testSetup.js	/^  userAgent: 'node.js'$/;"	property	line:48
